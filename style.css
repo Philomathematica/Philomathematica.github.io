@@ -1,0 +1,16 @@
+body 
+{
+  background-color: slategray;
+}
+
+h1 
+{
+  color: black;
+  text-align: center;
+}
+
+p 
+{
+  font-family: monospace;
+  font-size: 20px;
+}
